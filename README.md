@@ -6,8 +6,8 @@ Survive for as long as you can!** <br>
 <br>
 <br>
 
-Game Designer: pumibless
-Programmers: ewu694, ChillBeanJosh
-Artists: enmomentart, Amandal4012
-Sound Designer: psudonem
+Game Designer: pumibless <br>
+Programmers: ewu694, ChillBeanJosh <br>
+Artists: enmomentart, Amandal4012 <br>
+Sound Designer: psudonem <br>
 
