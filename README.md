@@ -3,3 +3,11 @@
 Throughout the game there will be power ups for our cat protagonist to use. The wasabi power-up will provide the player with a shield that tanks one hit for the player, while the rice power-up will temporarily double the score gain. <br>
 Survive for as long as you can!** <br>
 *The game can be found on https://ewu694.itch.io/meowshi !*
+<br>
+<br>
+
+Game Designer: pumibless
+Programmers: ewu694, ChillBeanJosh
+Artists: enmomentart, Amandal4012
+Sound Designer: psudonem
+
