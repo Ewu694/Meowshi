@@ -11,3 +11,6 @@ Programmers: ewu694, ChillBeanJosh <br>
 Artists: enmomentart, Amandal4012 <br>
 Sound Designer: psudonem <br>
 
+## Tech Stack: 
+- C#
+- Unity Game Engine
